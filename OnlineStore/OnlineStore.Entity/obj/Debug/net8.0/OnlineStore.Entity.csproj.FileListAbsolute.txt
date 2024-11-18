@@ -1,0 +1,15 @@
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Entity\bin\Debug\net8.0\OnlineStore.Entity.deps.json
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Entity\bin\Debug\net8.0\OnlineStore.Entity.dll
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Entity\bin\Debug\net8.0\OnlineStore.Entity.pdb
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Entity\bin\Debug\net8.0\OnlineStore.Core.dll
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Entity\bin\Debug\net8.0\OnlineStore.Core.pdb
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Entity\obj\Debug\net8.0\OnlineStore.Entity.csproj.AssemblyReference.cache
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Entity\obj\Debug\net8.0\OnlineStore.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Entity\obj\Debug\net8.0\OnlineStore.Entity.AssemblyInfoInputs.cache
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Entity\obj\Debug\net8.0\OnlineStore.Entity.AssemblyInfo.cs
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Entity\obj\Debug\net8.0\OnlineStore.Entity.csproj.CoreCompileInputs.cache
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Entity\obj\Debug\net8.0\OnlineSt.F5D484B5.Up2Date
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Entity\obj\Debug\net8.0\OnlineStore.Entity.dll
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Entity\obj\Debug\net8.0\refint\OnlineStore.Entity.dll
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Entity\obj\Debug\net8.0\OnlineStore.Entity.pdb
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Entity\obj\Debug\net8.0\ref\OnlineStore.Entity.dll

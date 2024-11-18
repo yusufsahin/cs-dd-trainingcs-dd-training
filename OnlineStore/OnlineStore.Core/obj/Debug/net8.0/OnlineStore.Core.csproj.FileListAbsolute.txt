@@ -1,0 +1,12 @@
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Core\bin\Debug\net8.0\OnlineStore.Core.deps.json
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Core\bin\Debug\net8.0\OnlineStore.Core.dll
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Core\bin\Debug\net8.0\OnlineStore.Core.pdb
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Core\obj\Debug\net8.0\OnlineStore.Core.csproj.AssemblyReference.cache
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Core\obj\Debug\net8.0\OnlineStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Core\obj\Debug\net8.0\OnlineStore.Core.AssemblyInfoInputs.cache
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Core\obj\Debug\net8.0\OnlineStore.Core.AssemblyInfo.cs
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Core\obj\Debug\net8.0\OnlineStore.Core.csproj.CoreCompileInputs.cache
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Core\obj\Debug\net8.0\OnlineStore.Core.dll
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Core\obj\Debug\net8.0\refint\OnlineStore.Core.dll
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Core\obj\Debug\net8.0\OnlineStore.Core.pdb
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.Core\obj\Debug\net8.0\ref\OnlineStore.Core.dll

@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\cs-dd-training\\OnlineStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75423CE9-D88C-4C5F-8D97-910EF324E9C5}|OnlineStore.Core\\OnlineStore.Core.csproj|c:\\projects\\cs-dd-training\\onlinestore\\onlinestore.core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75423CE9-D88C-4C5F-8D97-910EF324E9C5}|OnlineStore.Core\\OnlineStore.Core.csproj|solutionrelative:onlinestore.core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6168484-5E7F-4A16-92AA-3CFBD119C190}|OnlineStore.BAL\\OnlineStore.BAL.csproj|c:\\projects\\cs-dd-training\\onlinestore\\onlinestore.bal\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6168484-5E7F-4A16-92AA-3CFBD119C190}|OnlineStore.BAL\\OnlineStore.BAL.csproj|solutionrelative:onlinestore.bal\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AF3B9C-D1DA-41B2-A883-AF9A6CD00A0B}|OnlineStore.DAL\\OnlineStore.DAL.csproj|c:\\projects\\cs-dd-training\\onlinestore\\onlinestore.dal\\concrete\\entityframework\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AF3B9C-D1DA-41B2-A883-AF9A6CD00A0B}|OnlineStore.DAL\\OnlineStore.DAL.csproj|solutionrelative:onlinestore.dal\\concrete\\entityframework\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AF3B9C-D1DA-41B2-A883-AF9A6CD00A0B}|OnlineStore.DAL\\OnlineStore.DAL.csproj|c:\\projects\\cs-dd-training\\onlinestore\\onlinestore.dal\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AF3B9C-D1DA-41B2-A883-AF9A6CD00A0B}|OnlineStore.DAL\\OnlineStore.DAL.csproj|solutionrelative:onlinestore.dal\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{374EAD51-33B3-490A-B676-1E17AB4BA30F}|OnlineStore.API\\OnlineStore.API.csproj|c:\\projects\\cs-dd-training\\onlinestore\\onlinestore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{374EAD51-33B3-490A-B676-1E17AB4BA30F}|OnlineStore.API\\OnlineStore.API.csproj|solutionrelative:onlinestore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{374EAD51-33B3-490A-B676-1E17AB4BA30F}|OnlineStore.API\\OnlineStore.API.csproj|c:\\projects\\cs-dd-training\\onlinestore\\onlinestore.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{374EAD51-33B3-490A-B676-1E17AB4BA30F}|OnlineStore.API\\OnlineStore.API.csproj|solutionrelative:onlinestore.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{374EAD51-33B3-490A-B676-1E17AB4BA30F}|OnlineStore.API\\OnlineStore.API.csproj|c:\\projects\\cs-dd-training\\onlinestore\\onlinestore.api\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{374EAD51-33B3-490A-B676-1E17AB4BA30F}|OnlineStore.API\\OnlineStore.API.csproj|solutionrelative:onlinestore.api\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{374EAD51-33B3-490A-B676-1E17AB4BA30F}|OnlineStore.API\\OnlineStore.API.csproj|c:\\projects\\cs-dd-training\\onlinestore\\onlinestore.api\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{374EAD51-33B3-490A-B676-1E17AB4BA30F}|OnlineStore.API\\OnlineStore.API.csproj|solutionrelative:onlinestore.api\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6168484-5E7F-4A16-92AA-3CFBD119C190}|OnlineStore.BAL\\OnlineStore.BAL.csproj|c:\\projects\\cs-dd-training\\onlinestore\\onlinestore.bal\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6168484-5E7F-4A16-92AA-3CFBD119C190}|OnlineStore.BAL\\OnlineStore.BAL.csproj|solutionrelative:onlinestore.bal\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75423CE9-D88C-4C5F-8D97-910EF324E9C5}|OnlineStore.Core\\OnlineStore.Core.csproj|c:\\projects\\cs-dd-training\\onlinestore\\onlinestore.core\\dataaccess\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75423CE9-D88C-4C5F-8D97-910EF324E9C5}|OnlineStore.Core\\OnlineStore.Core.csproj|solutionrelative:onlinestore.core\\dataaccess\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{374EAD51-33B3-490A-B676-1E17AB4BA30F}|OnlineStore.API\\OnlineStore.API.csproj|c:\\projects\\cs-dd-training\\onlinestore\\onlinestore.api\\migrations\\20241118121448_initatialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{374EAD51-33B3-490A-B676-1E17AB4BA30F}|OnlineStore.API\\OnlineStore.API.csproj|solutionrelative:onlinestore.api\\migrations\\20241118121448_initatialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{374EAD51-33B3-490A-B676-1E17AB4BA30F}|OnlineStore.API\\OnlineStore.API.csproj|c:\\projects\\cs-dd-training\\onlinestore\\onlinestore.api\\onlinestore.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{374EAD51-33B3-490A-B676-1E17AB4BA30F}|OnlineStore.API\\OnlineStore.API.csproj|solutionrelative:onlinestore.api\\onlinestore.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AF3B9C-D1DA-41B2-A883-AF9A6CD00A0B}|OnlineStore.DAL\\OnlineStore.DAL.csproj|c:\\projects\\cs-dd-training\\onlinestore\\onlinestore.dal\\concrete\\onlinestoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AF3B9C-D1DA-41B2-A883-AF9A6CD00A0B}|OnlineStore.DAL\\OnlineStore.DAL.csproj|solutionrelative:onlinestore.dal\\concrete\\onlinestoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{374EAD51-33B3-490A-B676-1E17AB4BA30F}|OnlineStore.API\\OnlineStore.API.csproj|c:\\projects\\cs-dd-training\\onlinestore\\onlinestore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{374EAD51-33B3-490A-B676-1E17AB4BA30F}|OnlineStore.API\\OnlineStore.API.csproj|solutionrelative:onlinestore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6168484-5E7F-4A16-92AA-3CFBD119C190}|OnlineStore.BAL\\OnlineStore.BAL.csproj|c:\\projects\\cs-dd-training\\onlinestore\\onlinestore.bal\\onlinestore.bal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6168484-5E7F-4A16-92AA-3CFBD119C190}|OnlineStore.BAL\\OnlineStore.BAL.csproj|solutionrelative:onlinestore.bal\\onlinestore.bal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10936059-D605-46C7-85BF-D9B53647DE22}|OnlineStore.Entity\\OnlineStore.Entity.csproj|c:\\projects\\cs-dd-training\\onlinestore\\onlinestore.entity\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10936059-D605-46C7-85BF-D9B53647DE22}|OnlineStore.Entity\\OnlineStore.Entity.csproj|solutionrelative:onlinestore.entity\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75423CE9-D88C-4C5F-8D97-910EF324E9C5}|OnlineStore.Core\\OnlineStore.Core.csproj|c:\\projects\\cs-dd-training\\onlinestore\\onlinestore.core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75423CE9-D88C-4C5F-8D97-910EF324E9C5}|OnlineStore.Core\\OnlineStore.Core.csproj|solutionrelative:onlinestore.core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10936059-D605-46C7-85BF-D9B53647DE22}|OnlineStore.Entity\\OnlineStore.Entity.csproj|c:\\projects\\cs-dd-training\\onlinestore\\onlinestore.entity\\onlinestore.entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10936059-D605-46C7-85BF-D9B53647DE22}|OnlineStore.Entity\\OnlineStore.Entity.csproj|solutionrelative:onlinestore.entity\\onlinestore.entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.API\\Dtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "OnlineStore.API\\Dtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.API\\Dtos\\CategoryDto.cs",
+              "RelativeToolTip": "OnlineStore.API\\Dtos\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:46:20.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.API\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineStore.API\\Program.cs",
+              "ToolTip": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.API\\Program.cs",
+              "RelativeToolTip": "OnlineStore.API\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAwwCsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:44:57.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.Core\\DataAccess\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Core\\DataAccess\\IEntityRepository.cs",
+              "ToolTip": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.Core\\DataAccess\\IEntityRepository.cs",
+              "RelativeToolTip": "OnlineStore.Core\\DataAccess\\IEntityRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:00:53.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.BAL\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "OnlineStore.BAL\\Concrete\\CategoryManager.cs",
+              "ToolTip": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.BAL\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "OnlineStore.BAL\\Concrete\\CategoryManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:27:57.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryDal.cs",
+              "DocumentMoniker": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.DAL\\Concrete\\EntityFrameWork\\CategoryDal.cs",
+              "RelativeDocumentMoniker": "OnlineStore.DAL\\Concrete\\EntityFrameWork\\CategoryDal.cs",
+              "ToolTip": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.DAL\\Concrete\\EntityFrameWork\\CategoryDal.cs",
+              "RelativeToolTip": "OnlineStore.DAL\\Concrete\\EntityFrameWork\\CategoryDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:48:51.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryDal.cs",
+              "DocumentMoniker": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.DAL\\Abstract\\ICategoryDal.cs",
+              "RelativeDocumentMoniker": "OnlineStore.DAL\\Abstract\\ICategoryDal.cs",
+              "ToolTip": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.DAL\\Abstract\\ICategoryDal.cs",
+              "RelativeToolTip": "OnlineStore.DAL\\Abstract\\ICategoryDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:47:32.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "OnlineStore.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "OnlineStore.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:55:36.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.Core\\DataAccess\\EntityFrameWork\\EfEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Core\\DataAccess\\EntityFrameWork\\EfEntityRepositoryBase.cs",
+              "ToolTip": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.Core\\DataAccess\\EntityFrameWork\\EfEntityRepositoryBase.cs",
+              "RelativeToolTip": "OnlineStore.Core\\DataAccess\\EntityFrameWork\\EfEntityRepositoryBase.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:37:26.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.BAL\\Abstract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "OnlineStore.BAL\\Abstract\\ICategoryService.cs",
+              "ToolTip": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.BAL\\Abstract\\ICategoryService.cs",
+              "RelativeToolTip": "OnlineStore.BAL\\Abstract\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:23:30.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.API\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "OnlineStore.API\\Helpers\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.API\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "OnlineStore.API\\Helpers\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:51:23.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241118121448_InitatialMigration.cs",
+              "DocumentMoniker": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.API\\Migrations\\20241118121448_InitatialMigration.cs",
+              "RelativeDocumentMoniker": "OnlineStore.API\\Migrations\\20241118121448_InitatialMigration.cs",
+              "ToolTip": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.API\\Migrations\\20241118121448_InitatialMigration.cs",
+              "RelativeToolTip": "OnlineStore.API\\Migrations\\20241118121448_InitatialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:15:02.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OnlineStore.API.http",
+              "DocumentMoniker": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.API\\OnlineStore.API.http",
+              "RelativeDocumentMoniker": "OnlineStore.API\\OnlineStore.API.http",
+              "ToolTip": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.API\\OnlineStore.API.http",
+              "RelativeToolTip": "OnlineStore.API\\OnlineStore.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-18T12:24:14.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OnlineStoreDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.DAL\\Concrete\\OnlineStoreDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineStore.DAL\\Concrete\\OnlineStoreDbContext.cs",
+              "ToolTip": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.DAL\\Concrete\\OnlineStoreDbContext.cs",
+              "RelativeToolTip": "OnlineStore.DAL\\Concrete\\OnlineStoreDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:38:37.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.API\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineStore.API\\appsettings.json",
+              "ToolTip": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.API\\appsettings.json",
+              "RelativeToolTip": "OnlineStore.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T11:54:19.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OnlineStore.BAL",
+              "DocumentMoniker": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.BAL\\OnlineStore.BAL.csproj",
+              "RelativeDocumentMoniker": "OnlineStore.BAL\\OnlineStore.BAL.csproj",
+              "ToolTip": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.BAL\\OnlineStore.BAL.csproj",
+              "RelativeToolTip": "OnlineStore.BAL\\OnlineStore.BAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T10:22:15.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.Entity\\Concrete\\Category.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Entity\\Concrete\\Category.cs",
+              "ToolTip": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.Entity\\Concrete\\Category.cs",
+              "RelativeToolTip": "OnlineStore.Entity\\Concrete\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:33:57.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.Core\\Entities\\IEntity.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Core\\Entities\\IEntity.cs",
+              "ToolTip": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.Core\\Entities\\IEntity.cs",
+              "RelativeToolTip": "OnlineStore.Core\\Entities\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:11:26.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OnlineStore.Entity",
+              "DocumentMoniker": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.Entity\\OnlineStore.Entity.csproj",
+              "RelativeDocumentMoniker": "OnlineStore.Entity\\OnlineStore.Entity.csproj",
+              "ToolTip": "C:\\Projects\\cs-dd-training\\OnlineStore\\OnlineStore.Entity\\OnlineStore.Entity.csproj",
+              "RelativeToolTip": "OnlineStore.Entity\\OnlineStore.Entity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T08:28:14.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

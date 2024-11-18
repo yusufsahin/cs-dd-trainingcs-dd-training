@@ -1,0 +1,17 @@
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.DAL\bin\Debug\net8.0\OnlineStore.DAL.deps.json
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.DAL\bin\Debug\net8.0\OnlineStore.DAL.dll
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.DAL\bin\Debug\net8.0\OnlineStore.DAL.pdb
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.DAL\bin\Debug\net8.0\OnlineStore.Core.dll
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.DAL\bin\Debug\net8.0\OnlineStore.Entity.dll
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.DAL\bin\Debug\net8.0\OnlineStore.Entity.pdb
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.DAL\bin\Debug\net8.0\OnlineStore.Core.pdb
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.DAL\obj\Debug\net8.0\OnlineStore.DAL.csproj.AssemblyReference.cache
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.DAL\obj\Debug\net8.0\OnlineStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.DAL\obj\Debug\net8.0\OnlineStore.DAL.AssemblyInfoInputs.cache
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.DAL\obj\Debug\net8.0\OnlineStore.DAL.AssemblyInfo.cs
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.DAL\obj\Debug\net8.0\OnlineStore.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.DAL\obj\Debug\net8.0\OnlineSt.17896585.Up2Date
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.DAL\obj\Debug\net8.0\OnlineStore.DAL.dll
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.DAL\obj\Debug\net8.0\refint\OnlineStore.DAL.dll
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.DAL\obj\Debug\net8.0\OnlineStore.DAL.pdb
+C:\Projects\cs-dd-training\OnlineStore\OnlineStore.DAL\obj\Debug\net8.0\ref\OnlineStore.DAL.dll
