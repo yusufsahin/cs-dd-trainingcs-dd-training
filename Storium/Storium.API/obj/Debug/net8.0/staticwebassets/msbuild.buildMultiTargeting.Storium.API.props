@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Storium.API.props" />
+</Project>

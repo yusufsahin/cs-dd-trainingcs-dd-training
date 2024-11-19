@@ -1,0 +1,6 @@
+@Storium.API_HostAddress = http://localhost:5062
+
+GET {{Storium.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
