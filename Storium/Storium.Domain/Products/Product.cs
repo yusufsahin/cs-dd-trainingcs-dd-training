@@ -1,15 +1,40 @@
-﻿using Storium.Domain.Categories;
+﻿using Storium.Domain.Abstractions;
+using Storium.Domain.Categories;
+using Storium.Domain.Shared;
 
 namespace Storium.Domain.Products
 {
-    public sealed class Product
+    public sealed class Product:Entity
     {
-        public Guid Id { get; set; }
-        public string  Name { get; set; } 
-        public int Quantity { get; set; }
-        public decimal Amount { get; set; }
-        public string Currency { get; set; }
-        public Guid CategoryId { get; set; }
-        public Category Category { get; set; }
+        private Product(Guid id):base(id)
+        {
+
+        }
+
+        public Product(Guid id, Name name, int quantity, Money price, Guid categoryId) : base(id)
+        {
+            Name = name;
+            Quantity = quantity;
+            Price = price;
+            CategoryId = categoryId;
+        }
+        public Name Name { get; private set; } 
+        public int Quantity { get; private set; }
+
+        public Money Price { get; private set; }
+        /*
+         public decimal Amount { get; set; }
+         public string Currency { get; set; }
+        */
+        public Guid CategoryId { get;private set; }
+        public Category Category { get; private set; }
+
+        public void Update(string name, int quantity, decimal amount,string currency, Guid categoryId)
+        {
+            Name = new(name);
+            Quantity = quantity;
+            Price = new(amount, Currency.FromCode(currency));
+            CategoryId = categoryId;
+        }
     }
 }

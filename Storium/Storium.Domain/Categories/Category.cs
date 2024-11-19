@@ -1,5 +1,6 @@
 ﻿using Storium.Domain.Abstractions;
 using Storium.Domain.Products;
+using Storium.Domain.Shared;
 
 namespace Storium.Domain.Categories
 {
@@ -9,19 +10,17 @@ namespace Storium.Domain.Categories
         {
         }
 
-        public Category(Guid id, string name) : base(id)
+        public Category(Guid id, Name name) : base(id)
         {
             Name = name;
         }
-
-        public Guid Id { get; set; }
-        public string Name { get; set; }
+        public Name Name { get;private set; }
 
         public ICollection<Product> Products { get; private set; }
 
         public void ChangeName(string name)
         {
-            Name = name;
+            Name = new(name);
         }
     }
 }
