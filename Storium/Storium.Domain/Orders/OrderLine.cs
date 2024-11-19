@@ -9,7 +9,9 @@ namespace Storium.Domain.Orders
         public Guid ProductId { get; set; }
         public Product Product { get; set; }
         public int Quantity { get; set; }
+        /*
         public decimal Amount { get; set; }
         public string Currency { get; set; }
+       */
     }
 }
