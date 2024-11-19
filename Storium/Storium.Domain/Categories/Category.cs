@@ -6,7 +6,7 @@ namespace Storium.Domain.Categories
 {
     public sealed class Category:Entity
     {
-        public Category(Guid id) : base(id)
+        private Category(Guid id) : base(id)
         {
         }
 
