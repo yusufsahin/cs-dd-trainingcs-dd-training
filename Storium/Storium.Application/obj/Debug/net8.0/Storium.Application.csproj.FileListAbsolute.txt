@@ -1,0 +1,12 @@
+C:\Projects\cs-dd-training\Storium\Storium.Application\bin\Debug\net8.0\Storium.Application.deps.json
+C:\Projects\cs-dd-training\Storium\Storium.Application\bin\Debug\net8.0\Storium.Application.dll
+C:\Projects\cs-dd-training\Storium\Storium.Application\bin\Debug\net8.0\Storium.Application.pdb
+C:\Projects\cs-dd-training\Storium\Storium.Application\obj\Debug\net8.0\Storium.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\cs-dd-training\Storium\Storium.Application\obj\Debug\net8.0\Storium.Application.AssemblyInfoInputs.cache
+C:\Projects\cs-dd-training\Storium\Storium.Application\obj\Debug\net8.0\Storium.Application.AssemblyInfo.cs
+C:\Projects\cs-dd-training\Storium\Storium.Application\obj\Debug\net8.0\Storium.Application.csproj.CoreCompileInputs.cache
+C:\Projects\cs-dd-training\Storium\Storium.Application\obj\Debug\net8.0\Storium.Application.sourcelink.json
+C:\Projects\cs-dd-training\Storium\Storium.Application\obj\Debug\net8.0\Storium.Application.dll
+C:\Projects\cs-dd-training\Storium\Storium.Application\obj\Debug\net8.0\refint\Storium.Application.dll
+C:\Projects\cs-dd-training\Storium\Storium.Application\obj\Debug\net8.0\Storium.Application.pdb
+C:\Projects\cs-dd-training\Storium\Storium.Application\obj\Debug\net8.0\ref\Storium.Application.dll
